@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fanipangaribuan
 - 👀 I’m interested in Data and Analysis
-- 🌱 I’m currently learning Statistics
+- 🌱 I’m currently learning Statistics at Airlangga University
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me ...
 
